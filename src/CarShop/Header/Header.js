@@ -26,20 +26,20 @@ export default function Header() {
                             <ul className="navbar-nav my-2 my-lg-0 navbar-nav-scroll container" style={{ justifyContent: "flex-end" }} >
                                 <li className="nav-item line active">
                                     <NavLink className="nav-link "
-                                        to="/home"
+                                        to="DemoReact/home"
                                     >
                                         <i class="fa fa-home"></i> TRANG CHỦ
                                     </NavLink>
                                 </li>
                                 <li className='nav-item'>
                                     <NavLink className="nav-link "
-                                        to="/home"
+                                        to=""
                                     >
                                         GIỚI THIỆU
                                     </NavLink>
                                 </li>
                                 <li className="nav-item line">
-                                    <a className="nav-link" href="#">ĐẠI LÝ</a>
+                                    <a className="nav-link" href="">ĐẠI LÝ</a>
                                 </li>
                                 <li class="nav-item dropdown line">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -47,17 +47,17 @@ export default function Header() {
                                     </a>
                                     <ul class="dropdown-menu dropdown-menu-white" style={{ backgroundColor: 'black' }}>
                                         <li><NavLink className="nav-link dropdown-item text-white "
-                                            to="/manhinh"
+                                            to="DemoReact/manhinh"
                                         >
                                             Màn Hình
                                         </NavLink></li>
                                         <li><NavLink className="nav-link dropdown-item text-white "
-                                            to="/camera"
+                                            to="DemoReact/camera"
                                         >
                                             Camera
                                         </NavLink></li>
                                         <li><NavLink className="nav-link dropdown-item text-white "
-                                            to="/den"
+                                            to="DemoReact/den"
                                         >
                                             Đèn
                                         </NavLink></li>

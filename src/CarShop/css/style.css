@@ -731,7 +731,7 @@ display: none;
         bottom: 11% !important;
     }
     .button__fixed :nth-child(3){
-        bottom: 17.5% !important;
+        bottom: 18% !important;
     }
     .card-body .card-text{
         font-size: 10px;
@@ -749,6 +749,9 @@ display: none;
     }
     .new__in__caption {
         height: 169px !important;
+    }
+    #movieCarousel {
+        height: 305px;
     }
 }
 

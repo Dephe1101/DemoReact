@@ -22,11 +22,11 @@ function App() {
     <BrowserRouter>
       <HeaderFixed />
       <Routes>
-        <Route path='DemoReact/' Component={CarShop} />
+        <Route path='/' Component={CarShop} />
         <Route path='DemoReact/home' Component={CarShop} />
         <Route path='DemoReact/table' Component={Table} />
         <Route path='DemoReact/register' Component={Form} />
-        <Route exact path='*' Component={PageNotFound} />
+        {/* <Route exact path='*' Component={PageNotFound} /> */}
         <Route exact path='DemoReact/manhinh' Component={() => {
           return <div>
 
