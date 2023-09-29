@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DemoReact/static/css/main.eec392ea.css",
-    "main.js": "/DemoReact/static/js/main.04bcad47.js",
+    "main.js": "/DemoReact/static/js/main.4d2fb7bb.js",
     "static/js/787.24b4dcb8.chunk.js": "/DemoReact/static/js/787.24b4dcb8.chunk.js",
     "static/media/carousel-3.jpg": "/DemoReact/static/media/carousel-3.f1d5e509e129eb30a812.jpg",
     "static/media/carousel-15.jpg": "/DemoReact/static/media/carousel-15.44789f7876f56f21d3db.jpg",
@@ -12,11 +12,11 @@
     "static/media/slick.ttf": "/DemoReact/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/DemoReact/static/media/slick.295183786cd8a1389865.woff",
     "main.eec392ea.css.map": "/DemoReact/static/css/main.eec392ea.css.map",
-    "main.04bcad47.js.map": "/DemoReact/static/js/main.04bcad47.js.map",
+    "main.4d2fb7bb.js.map": "/DemoReact/static/js/main.4d2fb7bb.js.map",
     "787.24b4dcb8.chunk.js.map": "/DemoReact/static/js/787.24b4dcb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eec392ea.css",
-    "static/js/main.04bcad47.js"
+    "static/js/main.4d2fb7bb.js"
   ]
 }
