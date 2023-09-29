@@ -2,7 +2,7 @@
   "name": "carshop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dephe1101.github.io/zestech--demon",
+  "homepage": "https://Dephe1101.github.io/DemoReact",
   "dependencies": {
     "@react-spring/web": "^9.7.3",
     "@testing-library/jest-dom": "^5.17.0",

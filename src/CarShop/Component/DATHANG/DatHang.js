@@ -106,7 +106,7 @@ export default function DatHang() {
                             </div>
                         </div>
                     </button>
-                    <a href='tel:0903836342' style={{ padding: '0', position: "fixed", bottom: "30px", left: "30px", zIndex: "100", borderRadius: "40px" }} type="button" className="btn btn-danger p-3 button__position">
+                    <a href='tel:0903836342' style={{ padding: '0', position: "fixed", bottom: "4%", left: "30px", zIndex: "100", borderRadius: "40px" }} type="button" className="btn btn-danger p-3 button__position">
                         <div className='d-flex align-items-center '>
                             <animated.i style={{ ...propsString, color: "white", fontSize: '30px' }} class="fa fa-phone-volume button__fixed__icon"></animated.i>
                             <div className='ms-3'>

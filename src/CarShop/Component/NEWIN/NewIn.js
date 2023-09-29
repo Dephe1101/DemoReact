@@ -78,13 +78,13 @@ export default function NewIn() {
                         <Slider {...settings}>
                             <div className="col-6 col-md-3 px-2">
                                 <div className="new__in__img">
-                                    <div className=''   >
-                                        <img style={{ width: "100%", height: "307px" }} src='https://theme.hstatic.net/200000458777/1001039526/14/cate_feature_1_img.jpg?v=242' alt />
+                                    <div className='new__in__caption' style={{ width: "100%", height: "307px" }}   >
+                                        <img style={{ width: "100%", height: "100%" }} src='https://theme.hstatic.net/200000458777/1001039526/14/cate_feature_1_img.jpg?v=242' alt />
                                     </div>
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
-                                        <div to="/manhinh">
-                                            <NavLink to="/manhinh"><i className="fa fa-play" /></NavLink>
+                                        <div>
+                                            <NavLink to="#"><i className="fa fa-play" /></NavLink>
                                             <a href>Read More</a>
 
                                         </div>
@@ -128,7 +128,7 @@ export default function NewIn() {
                             </div>
                             <div className="col-6 col-md-3  px-2">
                                 <div className="new__in__img">
-                                    <div style={{ width: "100%", height: "307px" }}>
+                                    <div className='new__in__caption' style={{ width: "100%", height: "307px" }}>
                                         <img style={{ width: "100%", height: "100%" }} src='https://theme.hstatic.net/200000458777/1001039526/14/cate_feature_3_img.jpg?v=242      ' alt />
                                     </div>
                                     <div className="new__in__overlay" />

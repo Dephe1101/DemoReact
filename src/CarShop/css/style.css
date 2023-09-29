@@ -203,7 +203,7 @@ html, body {
     background-position: top;
 }
 #movieCarousel .carousel-item:nth-child(2) {
-    background-image: url('https://zestech.com.vn/wp-content/uploads/2023/04/CAU-THU-QUANG-HAI-ZESTECH.jpg');
+    background-image: url('https://zestech.com.vn/wp-content/uploads/2023/04/z4255881998202_4b2c01fe2145d0cdaeed400fa345126e.jpg');
     background-size: cover;
     background-position: top;
 }
@@ -290,8 +290,8 @@ html, body {
 }
 .new__in__play p {
     color: white;
-
 }
+
 /* SHOW TIMES */
 .show__time .nav-tabs {
     border-bottom: none;
@@ -728,10 +728,10 @@ display: none;
         height: 30px !important;
     }
     .button__fixed :nth-child(2){
-        bottom: 10% !important;
+        bottom: 11% !important;
     }
     .button__fixed :nth-child(3){
-        bottom: 16.5% !important;
+        bottom: 17.5% !important;
     }
     .card-body .card-text{
         font-size: 10px;
@@ -746,6 +746,9 @@ display: none;
     .datHang .form-group {
         width: 80% !important;
         height:  80% !important;
+    }
+    .new__in__caption {
+        height: 169px !important;
     }
 }
 
