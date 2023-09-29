@@ -18,7 +18,7 @@ export default function HeaderFixed() {
                         <ul className="navbar-nav my-2 my-lg-0 navbar-nav-scroll container" style={{ justifyContent: "flex-end" }} >
                             <li className="nav-item line active">
                                 <NavLink className="nav-link "
-                                    to="DemoReact/home"
+                                    to="/DemoReact/home"
                                 >
                                     <i class="fa fa-home"></i> TRANG CHỦ
                                 </NavLink>
@@ -39,24 +39,24 @@ export default function HeaderFixed() {
                                 </a>
                                 <ul class="dropdown-menu dropdown-menu-white" style={{ backgroundColor: 'black' }}>
                                     <li><NavLink className="nav-link dropdown-item text-white "
-                                        to="DemoReact/manhinh"
+                                        to="/DemoReact/manhinh"
                                     >
                                         Màn Hình
                                     </NavLink></li>
                                     <li><NavLink className="nav-link dropdown-item text-white "
-                                        to="DemoReact/camera"
+                                        to="/DemoReact/camera"
                                     >
                                         Camera
                                     </NavLink></li>
                                     <li><NavLink className="nav-link dropdown-item text-white "
-                                        to="DemoReact/den"
+                                        to="/DemoReact/den"
                                     >
                                         Đèn
                                     </NavLink></li>
                                 </ul>
                             </li>
                             <li className="nav-item line">
-                                <a className="nav-link" href="#">CONTACT</a>
+                                <a className="nav-link" href="">CONTACT</a>
                             </li>
                         </ul>
                     </div>

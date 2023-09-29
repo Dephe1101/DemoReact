@@ -185,7 +185,7 @@ export default function ShowTime() {
                     <div className='text-center'>
                         <button className='btn btn-primary'>
                             <NavLink className="nav-link dropdown-item text-white "
-                                to="/manhinh"
+                                to="/DemoReact/manhinh"
                             >
                                 Xem Thêm
                             </NavLink>
@@ -200,7 +200,7 @@ export default function ShowTime() {
                     <div className='text-center'>
                         <button className='btn btn-primary'>
                             <NavLink className="nav-link dropdown-item text-white "
-                                to="/camera"
+                                to="/DemoReact/camera"
                             >
                                 Xem Thêm
                             </NavLink>
@@ -216,7 +216,7 @@ export default function ShowTime() {
                     <div className='text-center'>
                         <button className='btn btn-primary'>
                             <NavLink className="nav-link dropdown-item text-white "
-                                to="/den"
+                                to="/DemoReact/den"
                             >
                                 Xem Thêm
                             </NavLink>
