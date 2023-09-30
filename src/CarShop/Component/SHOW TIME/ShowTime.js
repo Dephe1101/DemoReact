@@ -165,7 +165,7 @@ export default function ShowTime() {
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
                 <div className="card-body">
-                    <p className="card-text">{item.tenSP}</p>
+                    <p className="card-title">{item.tenSP}</p>
                     <p className="card-text">{item.gia}</p>
                     <p className="card-text">{item.loai}</p>
                     <button className='btn btn-primary' onClick={() => handleDetail(item.id)}></button>
