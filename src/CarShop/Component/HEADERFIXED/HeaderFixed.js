@@ -41,17 +41,17 @@ export default function HeaderFixed() {
                                     <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/manhinh"
                                     >
-                                        Màn Hình
+                                        MÀN HÌNH ANDROID ÔTÔ
                                     </NavLink></li>
                                     <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/camera"
                                     >
-                                        Camera
+                                        MÀN HÌNH LIỀN CAMERA 360
                                     </NavLink></li>
                                     <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/den"
                                     >
-                                        Đèn
+                                        BOX ANDROID ÔTÔ
                                     </NavLink></li>
                                 </ul>
                             </li>
