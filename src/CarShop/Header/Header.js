@@ -45,7 +45,7 @@ export default function Header() {
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                         SẢN PHẨM
                                     </a>
-                                    <ul class="dropdown-menu dropdown-menu-white" style={{ backgroundColor: 'black' }}>
+                                    <ul class="dropdown-menu dropdown-menu-dark" >
                                         <li><NavLink className="nav-link dropdown-item text-white "
                                             to="/DemoReact/manhinh"
                                         >

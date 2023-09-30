@@ -37,18 +37,18 @@ export default function HeaderFixed() {
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                     SẢN PHẨM
                                 </a>
-                                <ul class="dropdown-menu dropdown-menu-white" style={{ backgroundColor: 'black' }}>
-                                    <li><NavLink className="nav-link dropdown-item text-white "
+                                <ul class="dropdown-menu dropdown-menu-dark">
+                                    <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/manhinh"
                                     >
                                         Màn Hình
                                     </NavLink></li>
-                                    <li><NavLink className="nav-link dropdown-item text-white "
+                                    <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/camera"
                                     >
                                         Camera
                                     </NavLink></li>
-                                    <li><NavLink className="nav-link dropdown-item text-white "
+                                    <li className='line'><NavLink className="nav-link dropdown-item text-white "
                                         to="/DemoReact/den"
                                     >
                                         Đèn

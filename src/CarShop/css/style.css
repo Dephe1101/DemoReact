@@ -614,6 +614,10 @@ display: none;
     color: white;
 }
 
+.dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
+    background-color: transparent;
+}
+
 
 
 
@@ -647,14 +651,21 @@ display: none;
         box-shadow: none;
     }
     #movieCyber .navbar-nav {
-        background-color: black;
+        background-color: transparent;
         text-align: center;
     }
     #movieCyber .navbar-nav .active .nav-link {
         color:#ec7532;
     }
     #movieCyber .navbar-nav .nav-link {
-        color: white;
+        color: black;
+        font-weight: bold;
+        font-size: 16px;
+        padding: 10px 0;
+    }
+    #movieCyber .navbar-nav .dropdown-menu {
+        background-color: transparent !important;
+        border: 0;
     }
     .line.active::after {
         width: 0;
@@ -731,10 +742,10 @@ display: none;
         height: 30px !important;
     }
     .button__fixed :nth-child(2){
-        bottom: 11% !important;
+        bottom: 12% !important;
     }
     .button__fixed :nth-child(3){
-        bottom: 18% !important;
+        bottom: 20% !important;
     }
     .card-body .card-text{
         font-size: 14px;
