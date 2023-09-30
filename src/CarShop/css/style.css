@@ -617,7 +617,13 @@ display: none;
 .dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
     background-color: transparent;
 }
-
+.card-body :nth-child(3){
+        font-size:19px;
+        margin: 0;
+}
+.card-body .card-text{
+        margin-bottom: 5px;
+    }
 
 
 
@@ -748,14 +754,15 @@ display: none;
         bottom: 20% !important;
     }
     .card-body .card-text{
-        font-size: 14px;
+        font-size: 20px;
         margin-bottom: 2px;
     }
     .card-body .card-title {
-        font-size: 10px;
+        font-size: 17px;
     }
     .card-body :nth-child(3){
-        font-size:12px;
+        font-size:19px;
+        margin: 0;
     }
     .card-body {
         padding: 1rem 0 !important;

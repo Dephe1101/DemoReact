@@ -92,7 +92,7 @@ export default class Present extends Component {
                             </div>
                             <div className='col-4'>
                                 <div>
-                                    <img style={{ width: "100%", height: "100%" }} src='https://zestech.com.vn/wp-content/uploads/2023/04/tu-duy-ban-hang-cung-tien-si-le-tham-duong.jpg' />
+                                    <img style={{ width: "100%", height: "100%" }} src='https://zestech.vn/wp-content/uploads/2022/07/dan-cau-thu-hoi-tu-tai-su-kien-nganh-noi-that-o-to.jpg' />
                                 </div>
                                 <p style={{ fontSize: "18px", fontWeight: "bold", marginTop: "10px" }}>24h</p>
                                 <h5 style={{ color: "#fcc407", fontWeight: "bold" }}>Tiến Linh, Quế Ngọc Hải và Phan Văn Đức hội tụ tại sự kiện lớn nhất ngành nội thất ô tô Việt Nam 2022</h5>
@@ -102,7 +102,7 @@ export default class Present extends Component {
                             </div>
                             <div className='col-4'>
                                 <div>
-                                    <img style={{ width: "100%", height: "100%" }} src='https://zestech.com.vn/wp-content/uploads/2023/04/tu-duy-ban-hang-cung-tien-si-le-tham-duong.jpg' />
+                                    <img style={{ width: "100%", height: "100%" }} src='https://zestech.vn/wp-content/uploads/2022/07/man-nhan-cong-nghe-sk-noi-that-o-to-viet-nam-1.jpg' />
                                 </div>
                                 <p style={{ fontSize: "18px", fontWeight: "bold", marginTop: "10px" }}>24h</p>
                                 <h5 style={{ color: "#fcc407", fontWeight: "bold" }}>Mãn nhãn với các công nghệ mới nhất tại sự kiện ngành nội thất ô tô Việt Nam </h5>

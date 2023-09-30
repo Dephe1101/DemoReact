@@ -72,7 +72,7 @@ export default function ShowTime() {
 
     const renderManHinh = () => {
         return state.list.filter(product => product.loai === 'manHinh').slice(0, 8).map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" >
+            return <div className="mt-1 p-2 col-md-3 col-6" >
                 <div className='card__custom__img' >
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -87,7 +87,7 @@ export default function ShowTime() {
     }
     const renderAndroid = () => {
         return state.list.filter(product => product.loai === 'android').slice(0, 8).map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6" key={index}>
                 <div className='card__custom__img' >
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -102,7 +102,7 @@ export default function ShowTime() {
     }
     const renderBongDen = () => {
         return state.list.filter(product => product.loai === 'bongDen').map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6" key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -116,7 +116,7 @@ export default function ShowTime() {
     }
     const renderCamera = () => {
         return state.list.filter(product => product.loai === 'camera').slice(0, 8).map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6" key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -130,7 +130,7 @@ export default function ShowTime() {
     }
     const renderCameraHanhTrinh = () => {
         return state.list.filter(product => product.loai === 'cameraHanhTrinh').map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6" key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -145,7 +145,7 @@ export default function ShowTime() {
     }
     const renderCamBien = () => {
         return state.list.filter(product => product.loai === 'camBien').map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6" key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
@@ -160,7 +160,7 @@ export default function ShowTime() {
     }
     const renderLoa = () => {
         return state.list.filter(product => product.loai === 'loa').map((item, index) => {
-            return <div className="mt-1 p-2 col-md-3 col-4 " key={index}>
+            return <div className="mt-1 p-2 col-md-3 col-6 " key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
                 </div>
