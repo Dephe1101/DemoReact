@@ -29,7 +29,7 @@ export default function Footer() {
                     <div className="col-12 col-lg-3">
                         <h3>FANPAGE</h3>
                         <div className=''>
-                            <iframe src='https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/dochoioto.net'>
+                            <iframe style={{ width: "100%" }} src='https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/dochoioto.net'>
                             </iframe>
                         </div>
                     </div>

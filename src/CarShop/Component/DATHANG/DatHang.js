@@ -37,6 +37,7 @@ export default function DatHang() {
                 method: "POST",
                 data: StateThongTin
             })
+            alert("Gửi Thông Tin Thành Công")
         }
 
     }
@@ -90,22 +91,22 @@ export default function DatHang() {
                             </div>
                         </div>
                     </button>
-                    <button style={{ position: "fixed", bottom: "15%", left: "30px", zIndex: "100", borderRadius: "40px" }} type="button" className="btn btn-primary py-3 button__position" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <a href='https://www.facebook.com/quang.dieu.359?mibextid=LQQJ4d' target='_blank' style={{ position: "fixed", bottom: "15%", left: "30px", zIndex: "100", borderRadius: "40px" }} type="button" className="btn btn-primary py-3 button__position">
                         <div className='d-flex align-items-center '>
                             <animated.i style={{ ...propsString, fontSize: "30px", color: "" }} class="fab fa-facebook-messenger button__fixed__icon"></animated.i>
                             <div className='ms-3'>
                                 <div className='button__fixed__content' style={{ color: "white", fontSize: "20px" }}>Messenger</div>
                             </div>
                         </div>
-                    </button>
-                    <button style={{ position: "fixed", bottom: "26%", left: "30px", zIndex: "100", borderRadius: "40px", backgroundColor: "rgb(5, 214, 122)" }} type="button" className="btn button__position " data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    </a>
+                    <a href='https://zalo.me/84903836342?fbclid=IwAR2YiPdgp8sESWjlQkaOyI_QL_cWAM4VDQXMAvP9Xv4n8Cooato3Pf1Kyt0' target='_blank' style={{ position: "fixed", bottom: "26%", left: "30px", zIndex: "100", borderRadius: "40px", backgroundColor: "rgb(5, 214, 122)" }} type="button" className="btn button__position " >
                         <div className='d-flex align-items-center '>
                             <animated.img className="button__fixed__zalo" style={{ ...propsString, width: "60px", height: "60px", }} src={require("../../img/zalo-3.jpg")}></animated.img>
                             <div className=''>
                                 <div className='button__fixed__content' style={{ color: "white", fontSize: "20px" }}>Zalo</div>
                             </div>
                         </div>
-                    </button>
+                    </a>
                     <a href='tel:0903836342' style={{ padding: '0', position: "fixed", bottom: "4%", left: "30px", zIndex: "100", borderRadius: "40px" }} type="button" className="btn btn-danger p-3 button__position">
                         <div className='d-flex align-items-center '>
                             <animated.i style={{ ...propsString, color: "white", fontSize: '30px' }} class="fa fa-phone-volume button__fixed__icon"></animated.i>

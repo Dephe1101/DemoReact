@@ -5,7 +5,7 @@ export default function Product() {
         <section className='Product p-4 mt-5'>
             <div className='container-fluid'>
                 <div className='row'>
-                    <div className='col-md-3 col-sm-6 col-12 my-3'>
+                    <div className='col-lg-3 col-sm-6 col-12 my-3'>
                         <div className='Product__item d-flex  align-item-center'>
                             <div className='Product__img'>
                                 <img src='https://zestech.vn/wp-content/uploads/2022/01/guaranteed.png'></img>
@@ -16,7 +16,7 @@ export default function Product() {
                             </div>
                         </div>
                     </div>
-                    <div className='col-md-3 col-sm-6 col-12 my-3' >
+                    <div className='col-lg-3 col-sm-6 col-12 my-3' >
                         <div className='Product__item d-flex  align-item-center'>
                             <div className='Product__img'>
                                 <img src='https://zestech.vn/wp-content/uploads/2022/01/replacement.png'></img>
@@ -27,7 +27,7 @@ export default function Product() {
                             </div>
                         </div>
                     </div>
-                    <div className='col-md-3 col-sm-6 col-12 my-3' >
+                    <div className='col-lg-3 col-sm-6 col-12 my-3' >
                         <div className='Product__item d-flex  align-item-center'>
                             <div className='Product__img'>
                                 <img src='https://zestech.vn/wp-content/uploads/2022/01/tools.png'></img>
@@ -38,7 +38,7 @@ export default function Product() {
                             </div>
                         </div>
                     </div>
-                    <div className='col-md-3 col-sm-6 col-12 my-3'>
+                    <div className='col-lg-3 col-sm-6 col-12 my-3'>
                         <div className='Product__item d-flex  align-item-center'>
                             <div className='Product__img'>
                                 <img src='https://zestech.vn/wp-content/uploads/2022/06/42574831.png'></img>

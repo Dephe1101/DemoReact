@@ -624,12 +624,15 @@ display: none;
     }
 
     #movieCyber .navbar-nav .nav-link {
-        font-size: 11px;
+        font-size: 10px;
         padding: 20px 12px;
     }
     .show__time .nav-tabs .nav-link span{
         font-size: 12px;
         text-align: left;
+    }
+    .new__in__caption {
+        height: 334px !important;
     }
 }
 @media screen and (max-width: 767.98px) {

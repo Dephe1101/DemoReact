@@ -86,7 +86,7 @@ export default function ShowTime() {
         })
     }
     const renderAndroid = () => {
-        return state.list.filter(product => product.loai === 'android').map((item, index) => {
+        return state.list.filter(product => product.loai === 'android').slice(0, 8).map((item, index) => {
             return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
                 <div className='card__custom__img' >
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />
@@ -115,7 +115,7 @@ export default function ShowTime() {
         })
     }
     const renderCamera = () => {
-        return state.list.filter(product => product.loai === 'camera').map((item, index) => {
+        return state.list.filter(product => product.loai === 'camera').slice(0, 8).map((item, index) => {
             return <div className="mt-1 p-2 col-md-3 col-4" key={index}>
                 <div className='card__custom__img'>
                     <img src={item.hinhAnh} className="card-img-top img-fluid" alt="..." style={{ width: '100%', height: "100%" }} />

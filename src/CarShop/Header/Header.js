@@ -33,13 +33,13 @@ export default function Header() {
                                 </li>
                                 <li className='nav-item'>
                                     <NavLink className="nav-link "
-                                        to=""
+                                        to="#"
                                     >
                                         GIỚI THIỆU
                                     </NavLink>
                                 </li>
                                 <li className="nav-item line">
-                                    <a className="nav-link" href="">ĐẠI LÝ</a>
+                                    <a className="nav-link" href="#">ĐẠI LÝ</a>
                                 </li>
                                 <li class="nav-item dropdown line">
                                     <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -64,7 +64,7 @@ export default function Header() {
                                     </ul>
                                 </li>
                                 <li className="nav-item line">
-                                    <a className="nav-link" href="">CONTACT</a>
+                                    <a className="nav-link" href="#">CONTACT</a>
                                 </li>
                             </ul>
                         </div>

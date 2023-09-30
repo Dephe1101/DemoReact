@@ -25,7 +25,7 @@ export default function HeaderFixed() {
                             </li>
                             <li className='nav-item'>
                                 <NavLink className="nav-link "
-                                    to=""
+                                    to="#"
                                 >
                                     GIỚI THIỆU
                                 </NavLink>
@@ -56,7 +56,7 @@ export default function HeaderFixed() {
                                 </ul>
                             </li>
                             <li className="nav-item line">
-                                <a className="nav-link" href="">CONTACT</a>
+                                <a className="nav-link" href="#">CONTACT</a>
                             </li>
                         </ul>
                     </div>

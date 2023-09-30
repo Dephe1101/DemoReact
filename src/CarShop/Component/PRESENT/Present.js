@@ -156,10 +156,10 @@ export default class Present extends Component {
                 <div className='section '>
                     <div className='container'>
                         <div className='row' style={{ width: '100%' }}>
-                            <div className='col-md-6 col-12'>
+                            <div className='col-lg-6 col-12 mb-4'>
                                 <img style={{ width: "100%", height: "100%" }} src='https://zestech.com.vn/wp-content/uploads/2023/04/zestech-cung-ban-tien-len.jpg' />
                             </div>
-                            <div className='col-md-6 col-12'>
+                            <div className='col-lg-6 col-12'>
                                 <img src='https://zestech.com.vn/wp-content/uploads/2023/04/Thiet-ke-chua-co-ten-18-300x87.png' style={{ width: "300px", height: "87px", marginBottom: "20px" }} />
                                 <h3 >HÃNG MÀN HÌNH Ô TÔ DUY NHẤT ĐẠT TIÊU CHUẨN XUẤT MỸ</h3>
                                 <p>Zestech cung cấp trên 1 triệu sản phẩm màn hình ô tô, là thương hiệu tiên phong có màn hình đạt đủ tiêu chuẩn xuất Mỹ với độ bảo hành lên đến 5 năm tại Việt Nam. Bên cạnh đó, Zestech còn là hãng màn hình ô tô được các hãng xe lớn trên thế giới và Việt Nam ký kết hợp tác chiến lược chính thức. Với năng lực vượt trội và vị thế hàng đầu trong hành trình tiên phong kiến tạo kỉ nguyên ô tô thông minh mới, Zestech tự tin đem đến cho người dùng những sản phẩm tốt nhất với chất lượng cao và giá thành “hợp lý”.</p>
