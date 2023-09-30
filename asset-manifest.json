@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DemoReact/static/css/main.533eca73.css",
-    "main.js": "/DemoReact/static/js/main.2e557de3.js",
+    "main.css": "/DemoReact/static/css/main.ffd5e7c5.css",
+    "main.js": "/DemoReact/static/js/main.553c7e9f.js",
     "static/js/787.24b4dcb8.chunk.js": "/DemoReact/static/js/787.24b4dcb8.chunk.js",
     "static/media/carousel-3.jpg": "/DemoReact/static/media/carousel-3.f1d5e509e129eb30a812.jpg",
     "static/media/carousel-15.jpg": "/DemoReact/static/media/carousel-15.44789f7876f56f21d3db.jpg",
@@ -11,12 +11,12 @@
     "static/media/slick.eot": "/DemoReact/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/DemoReact/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/DemoReact/static/media/slick.295183786cd8a1389865.woff",
-    "main.533eca73.css.map": "/DemoReact/static/css/main.533eca73.css.map",
-    "main.2e557de3.js.map": "/DemoReact/static/js/main.2e557de3.js.map",
+    "main.ffd5e7c5.css.map": "/DemoReact/static/css/main.ffd5e7c5.css.map",
+    "main.553c7e9f.js.map": "/DemoReact/static/js/main.553c7e9f.js.map",
     "787.24b4dcb8.chunk.js.map": "/DemoReact/static/js/787.24b4dcb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.533eca73.css",
-    "static/js/main.2e557de3.js"
+    "static/css/main.ffd5e7c5.css",
+    "static/js/main.553c7e9f.js"
   ]
 }
