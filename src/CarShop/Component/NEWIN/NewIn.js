@@ -85,7 +85,7 @@ export default function NewIn() {
                                     <div className="new__in__play">
                                         <div>
                                             <NavLink to="#"><i className="fa fa-play" /></NavLink>
-                                            <a href>Read More</a>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>
@@ -109,8 +109,8 @@ export default function NewIn() {
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
                                         <div>
-                                            <NavLink to="/den"><i className="fa fa-play" /></NavLink>
-                                            <a href>Read More</a>
+                                            <NavLink to="#"><i className="fa fa-play" /></NavLink>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>
@@ -134,8 +134,8 @@ export default function NewIn() {
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
                                         <div>
-                                            <NavLink to="/phimcachnhiet"><i className="fa fa-play" /></NavLink>
-                                            <a href>Read More</a>
+                                            <NavLink to="#"><i className="fa fa-play" /></NavLink>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>
@@ -157,8 +157,8 @@ export default function NewIn() {
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
                                         <div>
-                                            <NavLink to="/camerahanhtrinh"><i className="fa fa-play" /></NavLink>
-                                            <a href>Read More</a>
+                                            <NavLink to="#"><i className="fa fa-play" /></NavLink>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>
@@ -180,8 +180,8 @@ export default function NewIn() {
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
                                         <div>
-                                            <NavLink to="/copdientudong"><i className="fa fa-play" /></NavLink>
-                                            <a href>Read More</a>
+                                            <NavLink to="#"><i className="fa fa-play" /></NavLink>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>
@@ -204,8 +204,8 @@ export default function NewIn() {
                                     <div className="new__in__overlay" />
                                     <div className="new__in__play">
                                         <div>
-                                            <a href><i className="fa fa-play" /></a>
-                                            <a href>Read More</a>
+                                            <a href='#'><i className="fa fa-play" /></a>
+                                            <a href='#'>Read More</a>
 
                                         </div>
                                     </div>

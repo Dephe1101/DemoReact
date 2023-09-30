@@ -746,6 +746,7 @@ display: none;
     .datHang .form-group {
         width: 80% !important;
         height:  80% !important;
+        margin: 0 auto !important;
     }
     .new__in__caption {
         height: 169px !important;
