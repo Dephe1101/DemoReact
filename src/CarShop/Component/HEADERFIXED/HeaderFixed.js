@@ -7,14 +7,16 @@ export default function HeaderFixed() {
             <nav className="navbar navbar-expand-md">
                 <div className="container">
                     <div className='logo' style={{ background: "#ffc000", alignSelf: "center" }}>
-                        <img src='https://zestech.vn/wp-content/themes/zestech/images/logo.png' />
+                        <NavLink to="/DemoReact/home">
+                            <img src='https://zestech.vn/wp-content/themes/zestech/images/logo.png' />
+                        </NavLink>
                     </div>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#movieCyber" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#movieCyberFixed" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon">
                             <i className="fa fa-bars" />
                         </span>
                     </button>
-                    <div className="collapse navbar-collapse" id="movieCyber">
+                    <div className="collapse navbar-collapse" id="movieCyberFixed">
                         <ul className="navbar-nav my-2 my-lg-0 navbar-nav-scroll container" style={{ justifyContent: "flex-end" }} >
                             <li className="nav-item line active">
                                 <NavLink className="nav-link "
