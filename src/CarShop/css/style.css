@@ -469,9 +469,9 @@ html, body {
     opacity: 0.6;
     transition: all, 0.5s;
 }
-.movie__list__item:hover .movie__list__overlay {
+/* .movie__list__item:hover .movie__list__overlay {
     opacity: 0;
-}
+} */
 /* Contact */
 .contact__content {
     text-align: center;
