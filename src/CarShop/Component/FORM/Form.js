@@ -31,7 +31,7 @@ export default function Form() {
             return alert("err")
         } else {
             let promise = axios({
-                url: 'https://64b392170efb99d862680ffe.mockapi.io/api/cardList',
+                url: 'https://6336fad05327df4c43cd9204.mockapi.io/PumCui',
                 method: "POST",
                 data: state
             })

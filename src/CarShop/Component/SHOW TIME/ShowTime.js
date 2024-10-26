@@ -57,7 +57,7 @@ export default function ShowTime() {
 
     const handelItem = () => {
         let promise = axios({
-            url: 'https://64b392170efb99d862680ffe.mockapi.io/api/cardList',
+            url: 'https://6336fad05327df4c43cd9204.mockapi.io/PumCui',
             method: 'GET'
         })
         promise.then(result => {

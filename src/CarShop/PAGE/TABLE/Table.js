@@ -12,7 +12,7 @@ export default function Table() {
 
     const renderThongTin = () => {
         let promise = axios({
-            url: "https://64b392170efb99d862680ffe.mockapi.io/api/ThongTin",
+            // url: "https://64b392170efb99d862680ffe.mockapi.io/api/ThongTin",
             method: 'GET'
         })
         promise.then(result => {
